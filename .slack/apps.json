@@ -1,0 +1,11 @@
+{
+  "apps": {
+    "T012U73QQG3": {
+      "app_id": "A015YR2Q0RH",
+      "IsDev": false,
+      "team_domain": "aish-team",
+      "team_id": "T012U73QQG3"
+    }
+  },
+  "default": "aish-team"
+}
